@@ -2,11 +2,10 @@
 # By Maher AMARA
 
 # importations
-from copy import copy
 import string
 
 
-# fonction:
+# function:
 
 
 def smiles(ch):
@@ -42,7 +41,6 @@ def smiles(ch):
                     ch1 += st
             i += 1
     return ch1
-
 
 
 def remove_stop_words(l):

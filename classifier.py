@@ -1,8 +1,7 @@
 # coding: utf8
-from optimisation import deep_split
-
-
 # By Maher AMARA
+
+from optimisation import deep_split
 
 
 def all_words():
